@@ -1,0 +1,38 @@
+*{
+    color: brown;
+}
+h1,
+h2{
+    color: red;
+}
+a{
+    color: blue;
+}
+
+.text-1 p{
+    color: green;
+}
+.text-2 p{
+    color: yellow;
+}
+.text-3 p,
+.text-4 p,
+.text-5 p{
+    color: blueviolet;
+}
+.text-5 + p{
+    color:aquamarine;
+}
+.text-6.text-7 p{
+    color: red;
+}
+
+.text-8 > p{
+    color:yellow;
+}
+.text-8 ~ p{
+    color: greenyellow;
+}
+.text-9 .text-10 p{
+    color:orange;
+}
