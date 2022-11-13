@@ -1,0 +1,48 @@
+body{
+    font-family: "Larsseit";
+}
+a{
+    color:blueviolet;
+}
+h1,
+h2,
+h3{
+    color: greenyellow;
+}
+.text-1 > p,
+.text-2 > p,
+.text-3 > p{
+    color: green;
+}
+.text-1{
+    color:blue;
+}
+.text-2{
+    font-family: "Lato";
+    color: red;
+}
+.text-3{
+    font-family: "Roboto";
+    color: yellow;
+}
+.text{
+    color: red;
+}
+.text.lesson{
+    color: blue;
+}
+.text-4 ~ p{
+    color: green;
+}
+.text-5{
+    color: yellow;
+}
+.text *{
+    color: aqua;
+}
+.text.lesson *{
+    color: chocolate;
+}
+.text p{
+    color: orange;
+}
