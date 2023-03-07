@@ -1,0 +1,13 @@
+body{
+    font-family: "Lato";
+}
+
+.fone{
+    background-color: yellow;
+    margin: center;
+    padding: 5px 5px;
+    border: 2px solid greenyellow;
+    border-radius: 3px;
+    margin: 100px auto ;
+    max-width: 150px;
+}
